@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'HDF4'
+copyright = '2023, hdfeos'
+author = 'hdfeos'
 
 release = '0.1'
 version = '0.1.0'

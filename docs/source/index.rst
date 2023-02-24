@@ -1,22 +1,11 @@
-Welcome to Lumache's documentation!
-===================================
+HDF4
+====
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
-
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
+The HDF stands for Hierarchical Data Format.
+The 4 stands for version 4.
+The Hierarchical Data Format (HDF) implements a model for
+managing and storing data.
+The model includes an abstract data model,
+an abstract storage model (a.k.a. the data format),
+and libraries to implement the abstract model and
+to map the storage model to different storage mechanisms. 
